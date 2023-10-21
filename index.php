@@ -17,8 +17,6 @@ Hello
     
 😎😎😎😎😎😎😎😎😎😎😎😎😎😎😎
 
-
-
 </center>
     </body>
 </html>
